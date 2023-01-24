@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+}
+
+.pending {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    color: white;
+    font-size: 100px;
+}
